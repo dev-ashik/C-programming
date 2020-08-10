@@ -11,4 +11,3 @@ int main() {
 	printf("maximum = %d\n", max);
 
 	return 0;
-}
